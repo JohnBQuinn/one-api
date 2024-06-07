@@ -64,6 +64,7 @@ _✨ 標準的な OpenAI API フォーマットを通じてすべての LLM に�
    + [x] [Baidu Wenxin Yiyuan シリーズモデル](https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html)
    + [x] [Alibaba Tongyi Qianwen シリーズモデル](https://help.aliyun.com/document_detail/2400395.html)
    + [x] [Zhipu ChatGLM シリーズモデル](https://bigmodel.cn)
+   + [x] [Sensetime Nova](https://sensenova.sensetime.com/)
 2. **ロードバランシング**による複数チャンネルへのアクセスをサポート。
 3. ストリーム伝送によるタイプライター的効果を可能にする**ストリームモード**に対応。
 4. **マルチマシンデプロイ**に対応。[詳細はこちら](#multi-machine-deployment)を参照。
